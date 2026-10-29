@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/34107013/README.1.md)
 # Alkamines
 
 R analysis of fecal drug-derived alkamines and sulfasalazine exposure in a longitudinal rheumatoid arthritis cohort: **17 participants, including 2 users and 15 non-users, sampled at T1, T2 and T3**.
